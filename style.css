@@ -37,12 +37,13 @@ body {
     font-weight: 600;
     color: #000;
     width: 250px;
-    height: 45px;
+    height: 35px;
     padding: .5em;
-    margin: 1em;
+    margin: .6em;
     text-decoration: none;
     display: flex;
     justify-content: space-between;
+    border-radius: 1em;
 }
 
 .links__objects p {
