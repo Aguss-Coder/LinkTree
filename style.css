@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #0B0E14;
+    background-image: url("https://c.tenor.com/IvyuPtEfzhoAAAAC/matrix.gif");
 }
 
 .info {
@@ -16,7 +16,7 @@ body {
 }
 
 .info img {
-    width: 150px;
+    width: 16%;
     border-radius: 50%;
     margin-top: 20px;
 }
@@ -52,6 +52,7 @@ body {
 
 .links__objects i {
     align-self: center;
+    padding-right: .5em;
 }
 
 #objects-ig {
@@ -60,10 +61,11 @@ body {
 
 #objects-in {
     background-color: #0077b5;
+    opacity: 1;
 }
 
 #objects-gh {
-    background-color: #0077;
+    background-color: rgba(2, 2, 142, 0.467);
     color: #fff;
 }
 
