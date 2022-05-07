@@ -7,6 +7,14 @@
 
 body {
     background-image: url("https://c.tenor.com/IvyuPtEfzhoAAAAC/matrix.gif");
+    background-clip: content-box;
+    width: 100vw;
+    height: 100vh;
+}
+
+.content {
+    background-color: rgba(0, 0, 0, .7);
+    height: 100%;
 }
 
 .info {
