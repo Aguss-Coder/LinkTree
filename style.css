@@ -77,13 +77,6 @@ body {
   color: #fff;
 }
 
-.p {
-  background-color: rgba(0, 0, 0, .7);
-  text-align: center;
-  color: #fff;
-  font-size: 1.1em;
-}
-
 @media only screen and (max-width: 500px) {
   .info img {
       width: 150px;
